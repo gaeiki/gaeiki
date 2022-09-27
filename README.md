@@ -3,6 +3,7 @@
 - 🕹️ Iniciando carreira em front-end
 - 🧗‍♂️ Em busca de crescimento e aprendizado em tech
 - 🎓 Graduado em Engenharia Mecatrônica
+- ☕ Gosto muito de preparar e tomar um café
 
 <div align="center" >
   <a href="https://github.com/gaeiki">
