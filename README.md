@@ -1,9 +1,9 @@
-### Olá! Eu sou o Gabriel, desenvolvedor front-end e graduado em Engenharia Mecatrônica.
+### Hi! My name is Gabriel, I'm a Front-end developer and Mechatronics Engineering graduate.
 
-- 🕹️ Iniciando carreira em front-end
-- 🧗‍♂️ Em busca de crescimento e aprendizado em tech
-- 🎓 Graduado em Engenharia Mecatrônica
-- ☕ Gosto muito de preparar e tomar um café
+- 🕹️ Starting my carreer in Front-end
+- 🧗‍♂️ Looking for growth and new learning experiences in technology
+- 🎓 Graduated in Mechatronics Engineering
+- ☕ Love preparing and enjoying a nice cup of coffee
 
 <div align="center" >
   <a href="https://github.com/gaeiki">
