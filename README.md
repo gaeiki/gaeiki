@@ -1,4 +1,4 @@
-### Hi! My name is Gabriel, I'm a Front-end developer and Mechatronics Engineering graduate.
+### Hi! My name is Gabriel, I'm a Front-end developer and Mechatronics engineer
 
 - 🕹️ Starting my carreer in Front-end
 - 🧗‍♂️ Looking for growth and new learning experiences in technology
