@@ -1,6 +1,6 @@
-### Hi! My name is Gabriel, I'm a Front-end developer and Mechatronics engineer
+### Hi! My name is Gabriel, I'm a Full Stack developer and Mechatronics engineer
 
-- 🕹️ Starting my carreer in Front-end
+- 🕹️ Working as Full Stack Developer in Florianópolis - BR
 - 🧗‍♂️ Looking for growth and new learning experiences in technology
 - 🎓 Graduated in Mechatronics Engineering
 - ☕ Love preparing and enjoying a nice cup of coffee
@@ -13,14 +13,19 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href = "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"><img align="center" alt="Ts icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href = "https://reactjs.org/"><img align="center" alt="React icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href = "https://www.python.org/"><img align="center" alt="Python icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href = "https://git-scm.com/"><img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <img align="center" alt="Illustrator icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Java icon" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Kotlin icon" height="30" width="40" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="HTML icon" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS icon" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js icon" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts icon" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React icon" height="30" width="40"title="React" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MySQL icon" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="PostgreSQL icon" height="30" width="40"title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Python icon" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git icon" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Illustrator icon" height="30" width="40" title="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
 
 ##
