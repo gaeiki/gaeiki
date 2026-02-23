@@ -5,11 +5,9 @@
 - 🎓 Graduated in Mechatronics Engineering
 - ☕ Love preparing and enjoying a nice cup of coffee
 
-<div align="center" >
-  <a href="https://github.com/gaeiki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaeiki&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeiki&layout=compact&langs_count=7&theme=react"/>
-  </a>
+<div align="left" >
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=gaeiki&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=gaeiki&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,6 +23,7 @@
   <img align="center" alt="PostgreSQL icon" height="30" width="40"title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Python icon" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git icon" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Figma icon" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Illustrator icon" height="30" width="40" title="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
 
